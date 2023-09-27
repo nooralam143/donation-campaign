@@ -1,0 +1,154 @@
+[
+  
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/hWHfm1z/Health.png",
+    "category": "Health",
+    "title": "Clean water for children",
+    "description": "Clean water donation is a humanitarian act that brings life-saving transformation to communities in need. Access to safe drinking water is a basic right, yet millions worldwide lack it. Donations to organizations dedicated to clean water projects provide essential purification systems and infrastructure, preventing waterborne diseases and enhancing overall health. Clean water donations are an investment in the future, empowering individuals to break free from the cycle of illness and poverty. They offer hope, dignity, and improved quality of life. In a world where water scarcity and pollution are growing challenges, contributing to clean water initiatives is a powerful way to make a positive impact on the lives of those less fortunate.",
+    "catColor": "#0052FF",
+    "catBackground": "#0052ff33",
+    "titleColor": "#0052FF",
+    "cardBackground": "#0052FF26",
+    "price": 290
+  },
+  
+  
+  
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/4Nc7f8F/Education.png",
+    "category": "Education",
+    "title": "Good education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "catColor": "#FF444A",
+    "catBackground": "#ff444A33",
+    "titleColor": "#FF444A",
+    "cardBackground": "#FF444A26",
+    "price": 290
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/02zPGbY/Clothing.png",
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "description": "Clothing donation is a compassionate act that can make a significant impact on the lives of those in need. By giving gently used or new clothing items, individuals can provide warmth, dignity, and hope to the less fortunate. These donations often go to homeless shelters, community organizations, and disaster relief efforts, helping individuals and families facing challenging circumstances.Clothing donation not only benefits recipients but also promotes sustainability by reducing textile waste. It encourages responsible consumption and supports the idea that clothing can have a second life. In a world where excess is prevalent, clothing donation serves as a reminder of the power of generosity and empathy, showing that a simple act can make a world of difference.",
+    "catColor": "#79C23F",
+    "catBackground": "#79c23f33",
+    "titleColor": "#79C23F",
+    "cardBackground": "#79C23F26",
+    "price": 290
+  },
+
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/wCNBStb/Food.png",
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "description": "Supporting food banks is a crucial humanitarian effort that combats hunger and strengthens communities. Food banks play a pivotal role in distributing meals to individuals and families facing food insecurity. Donations to these organizations provide nourishment and relief during times of crisis and daily struggles.By supporting food banks, individuals and businesses contribute to reducing hunger's devastating impact. It's a powerful way to ensure that no one goes to bed hungry. Beyond immediate assistance, food bank support fosters a sense of community, compassion, and solidarity.In a world where food wastage coexists with food shortages, supporting food banks is an impactful choice that underscores the value of sharing and caring for those in need.",
+    "catColor": "#F87147",
+    "catBackground": "#f8714733",
+    "titleColor": "#F87147",
+    "cardBackground": "#F8714726",
+    "price": 290
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/wCNBStb/Food.png",
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "description": "Supporting food banks is a crucial humanitarian effort that combats hunger and strengthens communities. Food banks play a pivotal role in distributing meals to individuals and families facing food insecurity. Donations to these organizations provide nourishment and relief during times of crisis and daily struggles.By supporting food banks, individuals and businesses contribute to reducing hunger's devastating impact. It's a powerful way to ensure that no one goes to bed hungry. Beyond immediate assistance, food bank support fosters a sense of community, compassion, and solidarity.In a world where food wastage coexists with food shortages, supporting food banks is an impactful choice that underscores the value of sharing and caring for those in need.",
+    "catColor": "#F87147",
+    "catBackground": "#f8714733",
+    "titleColor": "#F87147",
+    "cardBackground": "#F8714726",
+    "price": 290
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/02zPGbY/Clothing.png",
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "description": "Clothing donation is a compassionate act that can make a significant impact on the lives of those in need. By giving gently used or new clothing items, individuals can provide warmth, dignity, and hope to the less fortunate. These donations often go to homeless shelters, community organizations, and disaster relief efforts, helping individuals and families facing challenging circumstances.Clothing donation not only benefits recipients but also promotes sustainability by reducing textile waste. It encourages responsible consumption and supports the idea that clothing can have a second life. In a world where excess is prevalent, clothing donation serves as a reminder of the power of generosity and empathy, showing that a simple act can make a world of difference.",
+    "catColor": "#79C23F",
+    "catBackground": "#79c23f33",
+    "titleColor": "#79C23F",
+    "cardBackground": "#79C23F26",
+    "price": 290
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/4Nc7f8F/Education.png",
+    "category": "Education",
+    "title": "Good education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "catColor": "#FF444A",
+    "catBackground": "#ff444A33",
+    "titleColor": "#FF444A",
+    "cardBackground": "#FF444A26",
+    "price": 290
+  },
+
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/hWHfm1z/Health.png",
+    "category": "Health",
+    "title": "Clean water for children",
+    "description": "Clean water donation is a humanitarian act that brings life-saving transformation to communities in need. Access to safe drinking water is a basic right, yet millions worldwide lack it. Donations to organizations dedicated to clean water projects provide essential purification systems and infrastructure, preventing waterborne diseases and enhancing overall health. Clean water donations are an investment in the future, empowering individuals to break free from the cycle of illness and poverty. They offer hope, dignity, and improved quality of life. In a world where water scarcity and pollution are growing challenges, contributing to clean water initiatives is a powerful way to make a positive impact on the lives of those less fortunate.",
+    "catColor": "#0052FF",
+    "catBackground": "#0052ff33",
+    "titleColor": "#0052FF",
+    "cardBackground": "#0052FF26",
+    "price": 290
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/hWHfm1z/Health.png",
+    "category": "Health",
+    "title": "Clean water for children",
+    "description": "Clean water donation is a humanitarian act that brings life-saving transformation to communities in need. Access to safe drinking water is a basic right, yet millions worldwide lack it. Donations to organizations dedicated to clean water projects provide essential purification systems and infrastructure, preventing waterborne diseases and enhancing overall health. Clean water donations are an investment in the future, empowering individuals to break free from the cycle of illness and poverty. They offer hope, dignity, and improved quality of life. In a world where water scarcity and pollution are growing challenges, contributing to clean water initiatives is a powerful way to make a positive impact on the lives of those less fortunate.",
+    "catColor": "#0052FF",
+    "catBackground": "#0052ff33",
+    "titleColor": "#0052FF",
+    "cardBackground": "#0052FF26",
+    "price": 290
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/4Nc7f8F/Education.png",
+    "category": "Education",
+    "title": "Good education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "catColor": "#FF444A",
+    "catBackground": "#ff444A33",
+    "titleColor": "#FF444A",
+    "cardBackground": "#FF444A26",
+    "price": 290
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/02zPGbY/Clothing.png",
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "description": "Clothing donation is a compassionate act that can make a significant impact on the lives of those in need. By giving gently used or new clothing items, individuals can provide warmth, dignity, and hope to the less fortunate. These donations often go to homeless shelters, community organizations, and disaster relief efforts, helping individuals and families facing challenging circumstances.Clothing donation not only benefits recipients but also promotes sustainability by reducing textile waste. It encourages responsible consumption and supports the idea that clothing can have a second life. In a world where excess is prevalent, clothing donation serves as a reminder of the power of generosity and empathy, showing that a simple act can make a world of difference.",
+    "catColor": "#79C23F",
+    "catBackground": "#79c23f33",
+    "titleColor": "#79C23F",
+    "cardBackground": "#79C23F26",
+    "price": 290
+  },
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/wCNBStb/Food.png",
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "description": "Supporting food banks is a crucial humanitarian effort that combats hunger and strengthens communities. Food banks play a pivotal role in distributing meals to individuals and families facing food insecurity. Donations to these organizations provide nourishment and relief during times of crisis and daily struggles.By supporting food banks, individuals and businesses contribute to reducing hunger's devastating impact. It's a powerful way to ensure that no one goes to bed hungry. Beyond immediate assistance, food bank support fosters a sense of community, compassion, and solidarity.In a world where food wastage coexists with food shortages, supporting food banks is an impactful choice that underscores the value of sharing and caring for those in need.",
+    "catColor": "#F87147",
+    "catBackground": "#f8714733",
+    "titleColor": "#F87147",
+    "cardBackground": "#F8714726",
+    "price": 290
+  }
+
+
+]
