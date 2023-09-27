@@ -1,9 +1,17 @@
+import { useEffect, useState } from "react";
+import { useLoaderData } from "react-router-dom";
+import { getStoredDonation } from "../utility/localStorage";
+import { Link } from 'react-router-dom';
+import PieChart from './../chart/PIcharts';
+
 
 const Statistics = () => {
+   
+
     return (
         <div>
-            <h1>This is Statistics Page</h1>
-        </div>
+      <PieChart></PieChart>
+    </div>
     );
 };
 
