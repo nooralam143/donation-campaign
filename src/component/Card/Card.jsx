@@ -14,7 +14,7 @@ const Card = () => {
          <div className="container mx-auto">
             <div className="card-container grid gap-4 md:grid-cols-3 lg:grid-cols-4">
                 {donations.map((card) => (
-                    <Link to={`/details/${card.id}`}>
+                    <Link to={`/donation/${card.id}`}>
                     <div key={card.id} className="card bg-base-100 shadow-xl">
                         <figure>
                             <img src={card.img} alt={card.title} />

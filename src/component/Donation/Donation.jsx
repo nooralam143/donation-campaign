@@ -51,7 +51,7 @@ const Donation = () => {
                                 ${card.price}
                             </h2>
                             <div>
-                           <Link to={`/details/${card.id}`}><button className="p-2 text-white" style={{ backgroundColor: card.titleColor}}>View Details</button> </Link>   
+                           <Link to={`/donation/${card.id}`}><button className="p-2 text-white" style={{ backgroundColor: card.titleColor}}>View Details</button> </Link>   
                             </div>
                         </div>
                     </div>

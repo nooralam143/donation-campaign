@@ -1,12 +1,20 @@
 import { Link } from "react-router-dom";
+import Navbar from "../header/Navbar";
 
 
 const ErrorPage = () => {
     return (
-        <div>
-            <h2>Oops!!! </h2>
-            <Link to="/">Go back to home</Link>
+        <div className="container mx-auto">
+            <Navbar></Navbar>
+            <div className="text-center">
+                <div className="mt-20">
+                    <h1 className=" font-extrabold text-2xl">404 - Page Not Found</h1>
+                    <p>Oops! The page you are looking for does not exist.</p>
+                </div>
+                <Link to="/"><button className="btn btn-primary text-white mt-5">Go back to home</button></Link>
+            </div>
         </div>
+
     );
 };
 
