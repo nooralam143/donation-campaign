@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import {useEffect, useState } from "react";
 import { useLoaderData } from "react-router-dom";
 import { getStoredDonation } from "../utility/localStorage";
 import { Link } from 'react-router-dom';
@@ -29,10 +29,10 @@ const Donation = () => {
 
     }, [donations])
 
-    console.log(givenDonation);
+    
 
     return (
-        <div className="container mx-auto mt-5">
+       <div className="container mx-auto mt-5">
             <div className="card-container grid gap-4 md:grid-cols-1 lg:grid-cols-2">
                 {givenDonation.map((card) => (
                     
@@ -59,6 +59,8 @@ const Donation = () => {
                 ))}
             </div>
         </div>
+
+ 
     );
 };
 

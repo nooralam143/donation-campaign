@@ -4,7 +4,7 @@ const Hero = () => {
     return (
         <div>
             <section>
-                <div className="hero  h-96 " style={{ backgroundImage: 'url(../../../public/background_img.png)',}}>
+                <div className="hero  h-96 " style={{ backgroundImage: 'url(/background_img.png)'}}>
                     <div className="hero-overlay"></div>
                     <div className="hero-content text-center text-neutral-content">
                         <div className="max-w-md">
